@@ -1,0 +1,10 @@
+name: ZombieCount
+author: Vestri
+description: ZombieCount
+version: 0.1
+api-version: 1.16
+main: vb.java.ZombieCount
+commands:
+  zombies:
+    description: zeige zombies
+    usage: /zombies
